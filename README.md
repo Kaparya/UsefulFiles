@@ -21,3 +21,12 @@
 ## 5. Clock.h
 
 > **Clock** class. Useful for calculating execution time.
+
+## 6. FileCompressor/
+
+> Program that compresses the file using Haffman method.
+
+## 7. GameLife/
+
+> Ordinary Game of life in forest (there are grass, bunnies and wolves). <br/>
+> **SFML graphics library** was used in this project.
