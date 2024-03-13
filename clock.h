@@ -2,6 +2,7 @@
 #define CLOCK_H
 
 #include <iostream>
+#include <iomanip>
 
 class Clock {
 public:
